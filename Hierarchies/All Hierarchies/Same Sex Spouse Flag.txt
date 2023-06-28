@@ -1,0 +1,10 @@
+distinct
+name SSPA
+type string
+height 3
+
+NotChanged has "0"
+Changed has "1"
+
+root has NotChanged Changed 
+

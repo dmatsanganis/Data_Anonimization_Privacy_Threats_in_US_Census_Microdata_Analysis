@@ -1,0 +1,10 @@
+distinct
+name WHITE
+type string
+height 3
+
+No has "0"
+Yes has "1"
+
+root has No Yes 
+

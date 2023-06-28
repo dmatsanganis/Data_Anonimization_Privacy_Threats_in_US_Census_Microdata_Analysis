@@ -1,0 +1,15 @@
+distinct
+name QTRBIR
+type string
+height 4
+
+January-March has "0"
+April-June has "1"
+July-September has "2"
+October-December has "3"
+
+First_Semester has January-March April-June
+Second_Semester has July-September October-December
+
+root has First_Semester Second_Semester
+

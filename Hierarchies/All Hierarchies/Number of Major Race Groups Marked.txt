@@ -1,0 +1,13 @@
+distinct
+name NUMRACE
+type string
+height 3
+
+One_race has "1"
+Two_race has "2"
+Three_race has "3"
+Four_race has "4"
+Five_race has "5"
+Six_race has "6"
+
+root has One_race Two_race Three_race Four_race Five_race Six_race

@@ -1,0 +1,28 @@
+distinct
+name RELATE
+type string
+height 4
+
+Householder has "01"
+Husband/Wife has "02"
+Biological_Son/Daughter has "03"
+Adopted_Son/Daughter has "04"
+Stepson/Stepdaughter has "05"
+Brother/Sister has "06"
+Father/Mother has "07"
+Grandchild has "08"
+Parent-in-law has "09"
+Son-in-law/Daughter-in-law has "10"
+Other_relative has "11"
+Roomer has "12"
+Housemate_Roommate has "13"
+Unmarried_Partner has "14"
+Other_Non-Relative has "15"
+Institutional_GQ_Person has "16"
+Noninstitutional_GQ_Person has "17"
+
+Family_Member has Householder Husband/Wife Biological_Son/Daughter Adopted_Son/Daughter Stepson/Stepdaughter Brother/Sister Father/Mother Grandchild Parent-in-law Son-in-law/Daughter-in-law Other_relative 
+Non-Family_Member has Roomer Housemate_Roommate Unmarried_Partner Other_Non-Relative Institutional_GQ_Person Noninstitutional_GQ_Person   
+
+root has Family_Member Non-Family_Member 
+

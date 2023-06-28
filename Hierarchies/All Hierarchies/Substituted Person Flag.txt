@@ -1,0 +1,10 @@
+distinct
+name PSUB
+type string
+height 3
+
+NotSubstituted has "0"
+Substituted has "1"
+
+root has NotSubstituted Substituted 
+

@@ -1,0 +1,10 @@
+distinct
+name SEX
+type string
+height 3
+
+Male has "1"
+Female has "2"
+
+root has Male Female 
+

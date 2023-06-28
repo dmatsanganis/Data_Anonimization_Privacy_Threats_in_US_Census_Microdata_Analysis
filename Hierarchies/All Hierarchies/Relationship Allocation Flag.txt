@@ -1,0 +1,10 @@
+distinct
+name RELATEA
+type string
+height 3
+
+NotAllocated has "0"
+Allocated has "1"
+
+root has NotAllocated Allocated 
+

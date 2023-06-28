@@ -1,0 +1,11 @@
+distinct
+name GQTYP
+type string
+height 3
+
+Not_in_a_GQ has "0"
+Institutional_GQ has "1"
+Noninstitutional_GQ has "2"
+
+root has Not_in_a_GQ Institutional_GQ Noninstitutional_GQ 
+

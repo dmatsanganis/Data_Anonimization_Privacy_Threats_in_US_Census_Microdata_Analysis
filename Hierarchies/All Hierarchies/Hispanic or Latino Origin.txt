@@ -1,0 +1,12 @@
+distinct
+name HISPAN
+type string
+height 3
+
+CentralAmerican has "06" "07" "08" "09" "10" "11" "12" "02"
+Caribbean has "04" "05" "03"
+SouthAmerican has "13" "14" "15" "16" "17" "18" "19" "20" "21" "22"
+SpanishorLatino has "23" "24" "25"
+NotHispanicorLatino has "01"
+
+root has CentralAmerican Caribbean SouthAmerican SpanishorLatino NotHispanicorLatino
