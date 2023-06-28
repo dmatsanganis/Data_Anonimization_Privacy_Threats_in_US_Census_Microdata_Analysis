@@ -25,7 +25,8 @@ Explain how a person can be identified.
 Define differential privacy and explain the importance of the privacy parameter 'e'.
 
 * Part B: Analysis and Privacy-Preserving Techniques
-In this exercise, we load the dataset into a Python notebook (Jupyter recommended) and perform various analyses while preserving privacy using differential privacy techniques. Perform the following steps:
+In this exercise, we load the dataset into a Jupyter recommended and perform various analyses while preserving privacy using differential privacy techniques. Perform the following steps:
+
 
 Load the dataset into a Python notebook and display the first few rows to understand the data.
 Use the Amnesia anonymization tool to apply k-anonymity to the dataset. Comment on the resulting dataset.
