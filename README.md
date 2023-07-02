@@ -35,7 +35,7 @@ Apply a random noise mechanism to some of the numeric columns using the Gaussian
 Calculate the differentially private averages for the individuals using the noisy data.
 Plot the distribution of numeric features after adding the noise. Experiment with different values of the privacy parameter 'e' and comment on the effect of differential privacy on the results.
 
-
+ 
 ### Contributors
 
 - [x] [Foteini Nefeli Nouskali](https://github.com/FoteiniNefeli)
