@@ -1,7 +1,7 @@
 ## Data Anonymization: Privacy Threats in US Census Microdata Analysis.
 This repository contains an analysis of the US Census Bureau's microdata from the 2010 census. The current analysis focuses on understanding the privacy threats associated with the non-anonymized dataset and exploring techniques to preserve privacy while analyzing the data.
 
-### Dataset
+### Dataset 
 The dataset used for this analysis is the microdata from the 2010 census. It provides detailed information about individuals and households in Delaware. The dataset can be downloaded from the following link:
 [Delaware Microdata](https://www2.census.gov/census_2010/12-Stateside_PUMS/Delaware/).
 
