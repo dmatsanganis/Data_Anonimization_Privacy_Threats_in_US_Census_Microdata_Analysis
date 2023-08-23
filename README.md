@@ -1,4 +1,4 @@
-## Data Anonymization: Privacy Threats in US Census Microdata Analysis.
+## Data Anonymization: Privacy Threats in US Census Microdata Analysis. 
 This repository contains an analysis of the US Census Bureau's microdata from the 2010 census. The current analysis focuses on understanding the privacy threats associated with the non-anonymized dataset and exploring techniques to preserve privacy while analyzing the data.
 
 ### Dataset 
